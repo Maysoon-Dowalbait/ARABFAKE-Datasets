@@ -5,30 +5,32 @@
 The dataset consists of text data.
 
 ## Domain
-The data is collected from comments about three celebrity personalities on the youtube domain.
+The data was collected in 2017 from comments about three widely recognized Arab personalities on the YouTube domain, which are often surrounded by rumors.
 
 ## Annotation
-The data is annotated with two split text files. the annotations include sentiment analysis of comments with rumor in the first file and Non-rumor in another file.
+The data is divided into two files, one for the rumors and the other for the non-rumors, for each of the three personalities.
 
 ## Size
 The dataset consists of three different topic files(three files about the rumor and three about non-rumor), each file with a number of comments for each topic.
 
 ## Distribution
-The dataset has a balanced distribution of classes related to each topic.
+The distribution is offered for free and non-commercial use. Please just cite the article:
+"Maysoon Alkhair, Karima Meftouh, Nouha Othman, Kamel Smaïli, An Arabic Corpus of Fake News. In Collection, Analysis and Classification Arabic Language Processing: From Theory to Practice, Communications in Computer and Information Science book series (CCIS, volume 1108), pp.292-302, 2019, ⟨10.1007/978-3-030-32959-4_21⟩"
 
 ## Quality
-The data quality is high with a low percentage of errors.
+The data was gathered automatically but validated using automated procedures. The information is of a superior quality.
 
 ## Source
 The data was obtained from youtube.
 
 ## Purpose
-The dataset will be used for different types of AI models, such as classification/detection using ML and DL models.
+The aim of this corpus is to furnish researchers and developers with a first-rate, annotated dataset of Arabic information related to fake news. The corpus encompasses three text files that distinguish between rumors and non-rumors regarding three well-known Arab personalities. This dataset is intended to further the advancement of NLP and is accessible for free, with no commercial use permitted. We hope that this corpus will be useful for advancing the state of the art in detecting fake news and encourage researchers to use and contribute to the corpus.
 
 ## License
-The dataset is available for general personals and with copyright-preserved use under [M. Arabic datasets ].
+The corpus is intended for academic and research purposes only and should not be used for commercial purposes.
+When using the corpus, please cite the owners of the source using the following citation format: [Maysoon and Kamel Smaïli, ARABFAKE,  Maysoon-Dowalbait / Fakenews-Arabic-datasets ].
+If you make modifications to the corpus, please indicate what changes were made and the date of modification.
+The corpus is provided "as is" without any warranties or representations of any kind.
+By using the corpus, you agree to these usage guidelines and the license.
+Please cite in your publication the article: Maysoon Alkhair, Karima Meftouh, Nouha Othman, Kamel Smaïli, An Arabic Corpus of Fake News. In Collection, Analysis and Classification Arabic Language Processing: From Theory to Practice, Communications in Computer and Information Science book series (CCIS, volume 1108), pp.292-302, 2019, ⟨10.1007/978-3-030-32959-4_21⟩
 
-## Additional Information
-please can be obtained for Any other relevant information such as pre-processing steps applied to the data look at the article published at the link.
-https://link.springer.com/chapter/10.1007/978-3-030-32959-4_21
-and please reference it and the datasets.
