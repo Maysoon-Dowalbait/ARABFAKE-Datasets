@@ -1,4 +1,4 @@
-# Fakenews-Arabic-datasets
+# Maysoon and Kamel Smaïli, ARABFAKE datasets
 # Data Description for  Arabic fake news Datasets
 
 ## Data Type
@@ -12,6 +12,44 @@ The data is divided into two files, one for the rumors and the other for the non
 
 ## Size
 The dataset consists of three different topic files(three files about the rumor and three about non-rumor), each file with a number of comments for each topic.
+
+******The collected stories related to Fifi abdo, Bouteflika and Adel Imam******
+      ________________________________ 
+      |           |                   |
+      |  Topics   |     comments      |
+      |___________|___________________|                                      
+      | Fifi Abdo |        2,659      |
+      |Bouteflika |        1,527      |
+      |Adel Imam  |        708        |
+      |___________|___________________|
+
+___________________________***********___________________________
+
+
+******Statistics corresponding to the rumors ******
+      _______________________________________________ 
+      |           |                     |            |
+      |  Topics   |       comments      |    words   |
+      |___________|_____________________|____________|                                      
+      |Fifi Abdo  |        360          |   2767     |
+      |Bouteflika |        347          |   6228     |
+      |Adel Imam  |        187          |   1744     |
+      |___________|_____________________|____________|
+
+___________________________***********___________________________
+
+******Statistics corresponding to the Non-rumors******
+      _______________________________________________ 
+      |           |                     |            |
+      |  Topics   |    comments         |  words     |
+      |___________|_____________________|____________|                                      
+      |Fifi Abdo  |        2299         |   13045    |
+      |Bouteflika |        1180         |   22209    |
+      |Adel Imam  |        521          |   5816     |
+      |___________|_____________________|____________|
+
+___________________________***********___________________________
+
 
 ## Distribution
 The distribution is offered for free and non-commercial use. Please just cite the article:
