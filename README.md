@@ -1,5 +1,6 @@
-# Maysoon and Kamel Smaïli, ARABFAKE datasets
-# Data Description for  Arabic fake news Datasets
+#By ARABFAKE (Maysoon Dowalbait and Kamel Smaili)
+
+# Data Description for ARABFAKE Datasets
 
 ## Data Type
 The dataset consists of text data.
