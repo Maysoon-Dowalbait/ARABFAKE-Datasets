@@ -67,7 +67,7 @@ The aim of this corpus is to furnish researchers and developers with a first-rat
 
 ## License
 The corpus is intended for academic and research purposes only and should not be used for commercial purposes.
-When using the corpus, please cite the owners of the source using the following citation format: [Maysoon and Kamel Smaïli, ARABFAKE,  Maysoon-Dowalbait / Fakenews-Arabic-datasets ].
+When using the corpus, please cite the owners of the source using the following citation format: [Maysoon  Dowalbaitand Kamel Smaïli, ARABFAKE,  Maysoon-Dowalbait / Fakenews-Arabic-datasets ].
 If you make modifications to the corpus, please indicate what changes were made and the date of modification.
 The corpus is provided "as is" without any warranties or representations of any kind.
 By using the corpus, you agree to these usage guidelines and the license.
