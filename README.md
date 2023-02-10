@@ -1,4 +1,4 @@
-#By ARABFAKE (Maysoon Dowalbait and Kamel Smaili)
+#ARABFAKE (Maysoon Dowalbait and Kamel Smaili)
 
 # Data Description for ARABFAKE Datasets
 
