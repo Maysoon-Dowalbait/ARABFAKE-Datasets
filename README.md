@@ -15,16 +15,16 @@ The data is divided into two files, one for the rumors and the other for the non
 The dataset consists of three different topic files(three files about the rumor and three about non-rumor), each file with a number of comments for each topic.
 
 ******The collected stories related to Fifi abdo, Bouteflika and Adel Imam******
-      ________________________________ 
-      |           |                   |
-      |  Topics   |     comments      |
-      |___________|___________________|                                      
-      | Fifi Abdo |        2,659      |
-      |Bouteflika |        1,527      |
-      |Adel Imam  |        708        |
-      |___________|___________________|
+    
+               
+        Topics   |     comments     
+       _________________________                                     
+       Fifi Abdo | 2,659      
+       Bouteflika | 1,527      
+       Adel Imam  |  708        
+       _________________________
 
-___________________________***********___________________________
+__________________***********_________________
 
 
 ******Statistics corresponding to the rumors ******
