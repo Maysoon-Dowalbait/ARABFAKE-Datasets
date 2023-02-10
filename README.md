@@ -19,7 +19,7 @@ The dataset consists of three different topic files(three files about the rumor 
                
         Topics   |     comments     
        _________________________                                     
-       Fifi Abdo | 2,659      
+       Fifi Abdo  | 2,659      
        Bouteflika | 1,527      
        Adel Imam  |  708        
        _________________________
@@ -28,29 +28,27 @@ __________________***********_________________
 
 
 ******Statistics corresponding to the rumors ******
-      _______________________________________________ 
-      |           |                     |            |
-      |  Topics   |       comments      |    words   |
-      |___________|_____________________|____________|                                      
-      |Fifi Abdo  |        360          |   2767     |
-      |Bouteflika |        347          |   6228     |
-      |Adel Imam  |        187          |   1744     |
-      |___________|_____________________|____________|
+                                           
+       Topics     | comments |  words   
+      _______________________________                                    
+       Fifi Abdo  |  360     |   2767     
+       Bouteflika |  347     |   6228     
+       Adel Imam  |  187     |   1744     
+      _______________________________
 
-___________________________***********___________________________
+___________________***********_________________
 
 ******Statistics corresponding to the Non-rumors******
-      _______________________________________________ 
-      |           |                     |            |
-      |  Topics   |    comments         |  words     |
-      |___________|_____________________|____________|                                      
-      |Fifi Abdo  |        2299         |   13045    |
-      |Bouteflika |        1180         |   22209    |
-      |Adel Imam  |        521          |   5816     |
-      |___________|_____________________|____________|
 
-___________________________***********___________________________
+                                              
+       Topics    | comments  |  words     
+       ________________________________                                    
+       Fifi Abdo  | 2299     |   13045    
+       Bouteflika | 1180     |   22209    
+       Adel Imam  | 521      |   5816     
+      _________________________________
 
+_____________________***********__________________
 
 ## Distribution
 The distribution is offered for free and non-commercial use. Please just cite the article:
